@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CevaDemoApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(CevaDemoApplication.class, args);
 	}
 
